@@ -2,7 +2,6 @@
 Live on :- https://modest-shannon-b14e63.netlify.app
 <h3>INTRODUCTION</h3>
 <p>To Do is site where people can make their DO's list also can check that their list is completed or not . basically we have 3 drop downs that are ALL,COMPLETED,UNCOMPLETED that show the status of our todos.</p>
-<br>
 <h3>TECHNOLOGIES</h3>
 <ul>
   <li>REACT JS</li>

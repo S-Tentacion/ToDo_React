@@ -24,7 +24,7 @@ List of features ready and TODOs for future development
 Minor project: Completed
 
 ## Contact
-Munny Kumar- Software Developer Engineer
+Shubham- Software Developer Engineer
 <br/>
 <br/>
-munny231197@gmail.com
+shubham782000@gmail.com

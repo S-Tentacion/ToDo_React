@@ -1,21 +1,30 @@
-# ToDo React
+# To Do List in React JS
+
+> To Do is smart task list for everyday use, It is truly usable with great user experience, No matter who you are and what you do - you will be better organized! At home, at work and in your free time - you will focus on really important things!, It is powerful in its simplicity and convenience of use and Eliminates paperwork. Removes manual interventions.
+
 Live on :- https://modest-shannon-b14e63.netlify.app
-<h3>INTRODUCTION</h3>
-<p>To Do is site where people can make their DO's list also can check that their list is completed or not . basically we have 3 drop downs that are ALL,COMPLETED,UNCOMPLETED that show the status of our todos.</p>
-<h3>TECHNOLOGIES</h3>
-<ul>
-  <li>REACT JS</li>
-  <li>JAVASCRIPT</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
-<h3>SETUP</h3>
-<p>To install my project you can clone my repo the run command -> npm i to install dependencies and enjoy the code.</p>
-<h3>FEATURES</h3>
-<ul>
-  <li>To make lists of future work</li>
-  <li>This work on real time as you can check your list any time anywhere</li>
-  <li>Easy to make and delete list</li>
-</ul>
-<h3>STATUS</h3>
-<p>Project is: Completed</p>
+
+## Technologies
+* React
+* Java Script
+* Bootstrap
+
+## Setup
+1. Clone the project
+2. Install all the required dependencies
+3. Start the Server: Default port: 3000
+
+## Features
+List of features ready and TODOs for future development
+*  User friendly task management
+*  Grouping tasks in handy task lists
+*  Store persistent data
+
+## Status
+Minor project: Completed
+
+## Contact
+Munny Kumar- Software Developer Engineer
+<br/>
+<br/>
+munny231197@gmail.com
